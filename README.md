@@ -8,11 +8,12 @@ Budget planning,
 Dashboard overview. 
 ## Admin & user roles
 Technologies Used-
-PHP 7.4+
-MySQL (XAMPP)
-Simcify Framework
-Bootstrap
-jQuery
+1. PHP 7.4+
+2. MySQL (XAMPP)
+3. Simcify Framework
+4. Bootstrap
+5. JavaScript
+6. HTML/CSS
 ## Project Workflow
 1. User registration and authentication
 2. Income and expense data entry
