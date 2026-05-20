@@ -21,11 +21,11 @@ jQuery
 5. Dashboard visualization and financial reporting
 6. Role-based access for Admin and Users
 ## Installation-
-Clone the repository
-Move project to htdocs
-Import database from /database
-Rename .env_example to .env
-Update database credentials
-Run on browser via localhost
+1. Clone the repository
+2. Move project to htdocs
+3. Import database from /database
+4. Rename .env_example to .env
+5. Update database credentials
+6. Run on browser via localhost
 ## Admin Credentials-
 username: rabingadal123@gmail.com password: passqw
